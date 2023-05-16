@@ -4,7 +4,7 @@
 
 # Maze Game
 
-This is a simple maze game built using Matter.js. The user has to navigate a ball through a maze made up of immovable walls to reach the finish line.
+This project is a simple maze game built using Matter.js. The user has to navigate a ball through a maze made up of immovable walls to reach the finish line.
 
 ## How to Play ⚙️
 
@@ -33,7 +33,7 @@ Please make sure your changes are accurate and tested before submitting a pull r
 
 # Loja Labirint
 
-Ky është një lojë e thjeshtë e labirintit që është ndërtuar me përdorimin e Matter.js. Përdoruesi duhet të navigojë një top nëpër një labirint të ndërtuar me mure të palëvizshme deri në finish.
+Ky projekt është një lojë e thjeshtë e labirintit që është ndërtuar me përdorimin e Matter.js. Përdoruesi duhet të navigojë një top nëpër një labirint të ndërtuar me mure të palëvizshme deri në finish.
 
 ## Si të luani ⚙️
 
